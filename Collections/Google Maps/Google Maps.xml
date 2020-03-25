@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Collection name="Google Maps" guid="{B6DFC80D-0694-4130-A74F-3E3F4906E4CA}" system="No" updatable="Yes" blockNavigatorNode="No">
+	<HelpLink></HelpLink>
+	<Help>The Addons within this collection use the Google Maps API.</Help>
+	<ImportCollection name="Google Services">{B071E394-A381-41E2-B3F9-7E2CC509A8C5}</ImportCollection>
+</Collection>
